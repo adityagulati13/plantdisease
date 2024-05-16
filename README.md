@@ -3,6 +3,8 @@ PLANT DISEASE PREDICTOR
 Upload a plant leaf image from your system and get to know if it's
 healthy or not !!!
 
+DATASET USED-https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset
+
 ## Author
 
 - Aditya Gulati
